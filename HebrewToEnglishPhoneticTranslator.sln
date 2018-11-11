@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HebrewToEnglishPhoneticTranslator", "HebrewToEnglishPhoneticTranslator\HebrewToEnglishPhoneticTranslator.csproj", "{D7F55013-71BD-44A7-BCF4-D3D3ACF4531D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneticTranslatorTester", "PhoneticTranslatorTester\PhoneticTranslatorTester.csproj", "{D721F389-B3EB-4ABA-A0EB-75BCDFA26DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7F55013-71BD-44A7-BCF4-D3D3ACF4531D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F55013-71BD-44A7-BCF4-D3D3ACF4531D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F55013-71BD-44A7-BCF4-D3D3ACF4531D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F55013-71BD-44A7-BCF4-D3D3ACF4531D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D721F389-B3EB-4ABA-A0EB-75BCDFA26DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D721F389-B3EB-4ABA-A0EB-75BCDFA26DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D721F389-B3EB-4ABA-A0EB-75BCDFA26DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D721F389-B3EB-4ABA-A0EB-75BCDFA26DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F76982-DBF0-4075-B7C3-6C7A99A2A3FB}
+	EndGlobalSection
+EndGlobal
